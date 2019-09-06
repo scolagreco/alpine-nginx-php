@@ -1,4 +1,4 @@
-FROM scolagreco/alpine-base:v3.9.2
+FROM scolagreco/alpine-base:v3.10.2
 
 ADD files /root/
 
